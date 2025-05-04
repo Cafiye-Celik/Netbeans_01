@@ -1,11 +1,11 @@
 # Netbeans_01
 kullanıcı arayüz çalışması
+![image](https://github.com/user-attachments/assets/11ee4b9b-53f6-439b-9ade-fbee5683df6d)
+
+
 package com.mycompany.mavenproject1;
 
 import javax.swing.JOptionPane;
-![image](https://github.com/user-attachments/assets/6ae71772-284b-4773-adc9-ee90cab5a6f4)
-
-
 public class Odev_calismasi extends javax.swing.JFrame {
     public Odev_calismasi() {
         initComponents();
